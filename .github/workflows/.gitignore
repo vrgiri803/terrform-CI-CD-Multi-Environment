@@ -1,0 +1,14 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
+
+# Plan files
+tfplan
+
+# OS files
+.DS_Store
